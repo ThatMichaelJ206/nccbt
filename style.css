@@ -1,0 +1,33 @@
+body {
+    text-align: justify;
+}
+
+
+
+.disclaimer-text {
+    font-size: .65rem;
+}
+
+
+
+.footer-menu {
+    list-style: none;
+    display: inline;
+}
+
+.footer {
+    background-color: #cbbc97;
+    width: 100%;
+}
+
+.footer p {
+    color: #151616;
+}
+.footer a {
+    color: #151616;
+}
+
+.footer a:hover {
+    color: #4f5250;
+    text-decoration: underline;
+}

@@ -1,5 +1,6 @@
 body {
     text-align: justify;
+    
 }
 
 
@@ -8,26 +9,35 @@ body {
     font-size: .65rem;
 }
 
+.home-icon {
+    color: #20130a;
+}
 
+.cbt-btn {
+    background-color: #990000;
+}
 
+.cbt-btn:hover {
+    background-color: #a9bcc2;
+}
 .footer-menu {
     list-style: none;
     display: inline;
 }
 
 .footer {
-    background-color: #cbbc97;
+    background-color: #335352;
     width: 100%;
 }
 
 .footer p {
-    color: #151616;
+    color: #ced5cd;
 }
 .footer a {
-    color: #151616;
+    color: #ced5cd;
 }
 
 .footer a:hover {
-    color: #4f5250;
+    color: #edf8ef;
     text-decoration: underline;
 }

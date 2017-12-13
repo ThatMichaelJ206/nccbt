@@ -3,35 +3,88 @@ body {
     
 }
 
+.navbar {
+    background-color: #0F1F38;
+}
 
+.navbar-brand, .nav-link, .nav-item {
+    color: #CED5CD;
+}
+
+.navbar-brand:hover {
+    color: #EDF8EF;
+}
+
+.navlink a:hover {
+    color: #EDF8EF;
+}
+
+.nav-item a:hover {
+    color: #EDF8EF;
+}
 
 .disclaimer-text {
     font-size: .65rem;
 }
 
 .home-icon {
-    color: #20130a;
+    color: #1B4B5A;
 }
 
 .cbt-btn {
-    background-color: #990000;
+    background-color: #F55449;
 }
 
 .cbt-btn:hover {
-    background-color: #a9bcc2;
+    background-color: #f6655c;
 }
+
+.benefit-btn {
+    background-color: transparent;
+    border: 1px solid #1B4B5A;
+    border-radius: 5px;
+    color: #F55449;
+
+}
+
+
+.benefit-btn p {
+    color: #F55449;
+    font-size: .8rem;
+}
+
+.benefit-btn:hover {
+    color: #f6655c;
+}
+
+
+.cta-section {
+    background-color: #CED5CD;
+    background-size: cover;
+    
+}
+
+.slider-btn {
+    background-color: #297187;
+}
+
+.slider-btn:hover {
+    background-color: #3696b5;
+}
+
 .footer-menu {
     list-style: none;
     display: inline;
 }
 
 .footer {
-    background-color: #335352;
+    background-color: #1B4B5A;
     width: 100%;
 }
 
 .footer p {
     color: #ced5cd;
+    font-size: .9rem;
 }
 .footer a {
     color: #ced5cd;
@@ -41,3 +94,9 @@ body {
     color: #edf8ef;
     text-decoration: underline;
 }
+
+.vl {
+    border-left: 1px solid #1B4B5A;
+    height: 250px;
+}
+
